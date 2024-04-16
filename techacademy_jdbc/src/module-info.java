@@ -1,2 +1,0 @@
-module techacademy_jdbc {
-}
